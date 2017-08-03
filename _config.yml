@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 
 name: Brad A, Jekyll playground
-	markdown: kramdown
+markdown: kramdown
